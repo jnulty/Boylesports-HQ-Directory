@@ -70,3 +70,9 @@ export default function DirectoryLookup() {
     </div>
   );
 }
+
+        </Card>
+      ))}
+    </div>
+  );
+}
